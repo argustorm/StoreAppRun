@@ -1,0 +1,113 @@
+.flex {
+    display: flex;
+}
+
+.center {
+    text-align: center;
+}
+
+.flex-content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.title {
+    margin-top: 100px;
+}
+
+.borderadius {
+    border-radius: 8px;
+}
+
+.sidebar {
+    min-width: 370px;
+    max-width: 300px;
+    max-height: 350px;
+    padding: 10px;
+
+}
+
+.shadow {
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.15);
+    padding: 10px;
+    border-radius: 8px; 
+}
+
+.table-shadow {
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.15);
+    border-radius: 8px; 
+}
+
+.card-product {
+    max-width: 200px;
+    min-width: 200px;
+    max-height: 230px;
+    padding: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left:0;
+    color: whitesmoke;
+    width: 100%;
+}
+
+.form-register {
+    margin-left: 20px;
+    width: 800px;
+}
+
+body {
+    margin-bottom: 30px;
+}
+
+.green {
+    color: #42ba96;
+}
+
+.red {
+    color: #d9534f;
+}
+
+.content-div {
+    width: 700px;
+    margin-left: 50px;
+}
+
+.content-init {
+    width: 700px;
+    margin-left: 40px;
+}
+
+.left {
+    margin-left: 200px; 
+}
+
+.description {
+    margin-left: 60px;
+    height:300px;
+    width:300px;
+    display:block;
+    word-wrap: break-word;
+}
+
+.btn-remove-cart {
+    max-height: 30px;
+    margin-left: 350px;
+    margin-top: 10px;
+}
+
+.btn-detail-cart {
+    max-height: 30px;
+    margin-left: 280px;
+    margin-top: 10px;
+}
+
+.send-data {
+    width: 350px;
+    margin-bottom: 20px;
+}
